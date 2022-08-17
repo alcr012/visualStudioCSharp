@@ -1,0 +1,11 @@
+C:\Users\mateus.asouza8\source\repos\exercicio14-lista2\exercicio14-lista2\bin\Debug\exercicio14-lista2.exe.config
+C:\Users\mateus.asouza8\source\repos\exercicio14-lista2\exercicio14-lista2\bin\Debug\exercicio14-lista2.exe
+C:\Users\mateus.asouza8\source\repos\exercicio14-lista2\exercicio14-lista2\bin\Debug\exercicio14-lista2.pdb
+C:\Users\mateus.asouza8\source\repos\exercicio14-lista2\exercicio14-lista2\obj\Debug\exercicio14-lista2.csproj.AssemblyReference.cache
+C:\Users\mateus.asouza8\source\repos\exercicio14-lista2\exercicio14-lista2\obj\Debug\exercicio14-lista2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mateus.asouza8\source\repos\exercicio14-lista2\exercicio14-lista2\obj\Debug\exercicio14_lista2.Form1.resources
+C:\Users\mateus.asouza8\source\repos\exercicio14-lista2\exercicio14-lista2\obj\Debug\exercicio14_lista2.Properties.Resources.resources
+C:\Users\mateus.asouza8\source\repos\exercicio14-lista2\exercicio14-lista2\obj\Debug\exercicio14-lista2.csproj.GenerateResource.cache
+C:\Users\mateus.asouza8\source\repos\exercicio14-lista2\exercicio14-lista2\obj\Debug\exercicio14-lista2.csproj.CoreCompileInputs.cache
+C:\Users\mateus.asouza8\source\repos\exercicio14-lista2\exercicio14-lista2\obj\Debug\exercicio14-lista2.exe
+C:\Users\mateus.asouza8\source\repos\exercicio14-lista2\exercicio14-lista2\obj\Debug\exercicio14-lista2.pdb
