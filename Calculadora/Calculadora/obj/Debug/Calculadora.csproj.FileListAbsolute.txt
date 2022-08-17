@@ -1,0 +1,11 @@
+C:\Users\mateus.asouza8\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\mateus.asouza8\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\mateus.asouza8\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\mateus.asouza8\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\mateus.asouza8\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\mateus.asouza8\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.calculadora.resources
+C:\Users\mateus.asouza8\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\mateus.asouza8\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\mateus.asouza8\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\mateus.asouza8\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\mateus.asouza8\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
